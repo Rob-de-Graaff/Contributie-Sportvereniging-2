@@ -1,0 +1,10 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\bin\Debug\Contributie.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\bin\Debug\Contributie.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\bin\Debug\Contributie.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.Form1.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 28 Contributie Sportvereniging (2)\Contributie\Contributie\obj\Debug\Contributie.pdb
